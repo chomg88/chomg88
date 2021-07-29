@@ -2,8 +2,6 @@
 ### Hey, MinGyun here!)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
-
 [![Linkedin Badge](https://img.shields.io/badge/-Mingyun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/민균-조-aa0ba3118)](https://www.linkedin.com/in/민균-조-aa0ba3118) [![Gmail Badge](https://img.shields.io/badge/-chomg88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chomg88@gmail.com)](mailto:asterp04@gmail.com) 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
