@@ -23,8 +23,9 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  	user = 'Mingyun Cho'
 	current_edu = "HanYang Univ, Major in Computer Science"
 	hobbies = [
-				'Watching YouTube',
-			]
+			'Watching YouTube',
+			'Playing Tennis'
+		]
 	
 	def getCity():
 		return Seoul_Korea()
@@ -42,7 +43,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 ## Other Stuff
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=chomg88&show_icons=true&hide=[%22issues%22])
+![chomg88's github stats](https://github-readme-stats.vercel.app/api?username=chomg88&show_icons=true&hide=[%22issues%22])
  
  -------
 Credits: [chomg88](https://github.com/chomg88)
