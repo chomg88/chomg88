@@ -3,7 +3,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Mingyun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/민균-조-aa0ba3118)](https://www.linkedin.com/in/민균-조-aa0ba3118) [![Gmail Badge](https://img.shields.io/badge/-chomg88@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chomg88@gmail.com)](mailto:asterp04@gmail.com) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chomg88" alt="chomg88" /> </p>
 
 Welcome to my humble abode in the Digital World.. There are 10 types of people in the world. Those who get Binary and those who don't.
 
