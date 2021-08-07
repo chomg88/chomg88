@@ -38,7 +38,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **iOS Apps **
+ * I'm currently working on 🔭 building **iOS Apps**
  
 ## Other Stuff
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: )
